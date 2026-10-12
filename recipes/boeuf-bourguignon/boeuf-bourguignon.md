@@ -43,7 +43,7 @@
 10 minutes
 
 ### Temps de cuisson
-15 minutes
+30 minutes
 
 ### Nombre de personnes
 4 personnes
